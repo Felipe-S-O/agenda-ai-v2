@@ -49,7 +49,7 @@ Agenda ai é uma aplicação desenvolvida em react-native, com essa aplicação 
 
 <div align="center">
   
-![Agenda-ai]( https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/24109ac7-115d-4a66-95d9-086a189ec55e)
+ https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/24109ac7-115d-4a66-95d9-086a189ec55e
   
 </div>
 
