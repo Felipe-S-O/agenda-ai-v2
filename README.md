@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Agenda ai</p>
-  <a href="https://inottec.com.br/felipe/"><img src="https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/29ba5058-1240-4601-b59a-8510589cef63.png?text=Agenda-ai#vitrinedev" alt="Agenda ai"></a>
+  <a href="https://inottec.com.br/felipe/"><img src="https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/29ba5058-1240-4601-b59a-8510589cef63?text=Agenda-ai#vitrinedev" alt="Agenda ai"></a>
 </h1>
 
 <p align="center">
@@ -49,7 +49,7 @@ Agenda ai é uma aplicação desenvolvida em react-native, com essa aplicação 
 
 <div align="center">
   
-![Agenda ai]( https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/24109ac7-115d-4a66-95d9-086a189ec55e.gif)
+![Agenda ai]( https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/24109ac7-115d-4a66-95d9-086a189ec55e)
   
 </div>
 
