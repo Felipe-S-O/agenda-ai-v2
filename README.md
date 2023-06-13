@@ -1,4 +1,3 @@
-app de agendamento de serviço 
 <h1 align="center">
   <p align="center">Agenda ai</p>
   <a href="https://inottec.com.br/felipe/"><img src="https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/29ba5058-1240-4601-b59a-8510589cef63?text=Agenda ai#vitrinedev" alt="inottec"></a>
