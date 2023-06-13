@@ -75,12 +75,12 @@ Você pode [acessar o código fonte do projeto](https://github.com/Felipe-S-O/ag
 - Extraia o arquivo compactado  que foi baixado
 - executa o comando abaixo para instalar as dependências
 ```bash
-# with npm
+# install dependency
 npm install
 ```
 - Para iniciar a aplicação executa o comando abaixo
 ```bash
-# wit
+# start application
 npm start
 ```
 
