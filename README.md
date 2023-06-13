@@ -30,7 +30,7 @@ app de agendamento de serviço
 
 Agenda ai é uma aplicação desenvolvida em react-native, com essa aplicação é posivel gerenciar seus horarios e controla os agendamentos do dia a dias!
   
-![inicio-agenda-ai](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/31e074a8-0520-43d4-8e56-0f0abe076582) ![login](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/2b300ffc-7024-4858-bff4-921408d08505) ![agenda](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/e33089ac-771c-43ee-88ab-2a1fe001e14d) ![horarios](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/2e5396a7-6986-435c-9f4c-4a3662032a4a)
+![tela-app](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/d3d58b3f-ac9f-4f13-8795-a8c2f68f8f8d)
 
 </p>
 
