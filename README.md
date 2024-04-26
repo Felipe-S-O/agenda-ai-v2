@@ -27,7 +27,7 @@
 
 <p align="justify">
 
-Agenda ai é uma aplicação desenvolvida em react-native, com essa aplicação é posivel gerenciar seus horarios e controla os agendamentos do dia a dias!
+Agenda aí é uma aplicação desenvolvida em React Native, com essa aplicação é possível gerenciar seus horários e controla os agendamentos do dia há dias!
   
 ![tela-app](https://github.com/Felipe-S-O/agenda-ai-v2/assets/63815922/d3d58b3f-ac9f-4f13-8795-a8c2f68f8f8d)
 
